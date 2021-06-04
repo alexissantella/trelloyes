@@ -4,7 +4,7 @@ import React from 'react';
 // make the ReactDOM available, necessary for rendering the component
 import ReactDOM from 'react-dom';
 
-// make the List component available
+// make the Card component available
 import List from './List';
 
 // this is the test case
